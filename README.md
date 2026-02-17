@@ -5,7 +5,7 @@ This repository contains the code used to reproduce the results and figures in t
 
 ## Data
 
-The dataset is archived at Science Data Bank (DOI: XXX).
+The dataset is archived at Science Data Bank (DOI: 10.57760/sciencedb.37695).
 
 After downloading, place the data files into:
 
